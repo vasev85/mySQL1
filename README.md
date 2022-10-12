@@ -19,12 +19,14 @@
 1.2 Создайте учетную запись sys_temp. 
 
 1.3 Выполните запрос на получение списка пользователей в Базе Данных. (скриншот)
+
 ![alt text](https://github.com/vasev85/mySQL1/blob/main/screens/ex1.png?raw=true)
 
 
 1.4 Дайте все права для пользователя sys_temp. 
 
 1.5 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
 ![alt text](https://github.com/vasev85/mySQL1/blob/main/screens/ex1-2.png?raw=true)
 
 
@@ -39,6 +41,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.7 Восстановите дамп в базу данных.
 
 1.8 При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
+
 ![alt text](https://github.com/vasev85/mySQL1/blob/main/screens/ex1-3.png?raw=true)
 
 
@@ -61,6 +64,7 @@ customer         | customer_id
 3.1 Уберите у пользователя sys_temp права на внесение, изменение и удаление данных из базы sakila.
 
 3.2 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
 ![alt text](https://github.com/vasev85/mySQL1/blob/main/screens/ex3.png?raw=true)
 
 
