@@ -65,7 +65,7 @@ customer         | customer_id
 
 3.2 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
-![alt text] (https://github.com/vasev85/mySQL1/blob/main/ex3.png?raw=true)
+![alt text](https://github.com/vasev85/mySQL1/blob/main/ex3.png?raw=true)
 
 
 
